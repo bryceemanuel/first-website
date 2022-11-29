@@ -1,10 +1,4 @@
 
-<!DOCTYPE html>
-<html>
-   <head>
-       <title>DoresToDoors</title>
-   </head>
-   <body>
        <!-- Headings -->
     <h1><strong>DoresToDoors</strong></h1>
     <h1>Academics</h1>
